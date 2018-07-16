@@ -98,3 +98,15 @@ At this project we are using this stack:
 6. Try it! : )
 
    Use a tool and try to reach the API (highly recommend Curl or Postman - AWESOME TOOLS!)
+
+
+
+##How to execute tests
+
+We're using RSpec, so our tests are in folder `spec` and configuration for support tools in `spec/support`
+
+To execute ours tests ir very simple, only goes to terminal and execute:
+
+`rspec`
+
+And all tests will run. (I hope Green :D)
